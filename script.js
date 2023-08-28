@@ -458,6 +458,48 @@ const music_list = [
         name: 'Original',
         artist: 'Kaito',
         music: 'music/novos/Original _ Muzan (Kimetsu no Yaiba) _ Kaito (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/serLuz.jpg',
+        name: 'Ser Luz',
+        artist: 'AnnyTHN',
+        music: 'music/novos/Anny - Ser Luz [Prod.Blxck] (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/gojoAnny.jpg',
+        name: 'Divergentes',
+        artist: 'AnnyTHN',
+        music: 'music/novos/Anny - Divergentes ft.@TakaB [Prod.ZG] (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/gilgamesh.jpg',
+        name: 'Portões Da Babilônia',
+        artist: 'M4rkim',
+        music: 'music/novos/Gilgamesh (Fate) - Portões Da Babilônia _ M4rkim (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/kaito_gojovsSukuna.jpg',
+        name: 'Expansão de Domínio',
+        artist: 'Kaito ft. M4rkim',
+        music: 'music/novos/Gojo vs Sukuna (Jujutsu Kaisen) _ Expansão de Domínio _ Kaito ft @M4rkim & @henriquemendonca (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/gojovssukunaWLO.jpg',
+        name: 'Expansão de Domínio',
+        artist: 'WLO',
+        music: 'music\novos\WLO - Expansão de Domínio ( Sukuna vs Gojo - Jujutsu Kaisen ) (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/gojovssukunaBasara.jpg',
+        name: 'Santuário Infinito',
+        artist: 'Basara ft. Daarui',
+        music: 'music\novos\Sukuna VS. Satoru Gojo _ Santuário Infinito (Jujutsu Kaisen) _ Basara ft. @DaaruiOficial (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/m4rkimSukuna.jpg',
+        name: 'Rei Das Maldições',
+        artist: 'M4rkim',
+        music: 'music/novos/Sukuna (Jujutsu Kaisen) - Rei Das Maldições _ M4rkim (320 kbps).mp3'
     }
     
 ];
