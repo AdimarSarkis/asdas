@@ -487,13 +487,13 @@ const music_list = [
         img: 'music/novos/gojovssukunaWLO.jpg',
         name: 'Expansão de Domínio',
         artist: 'WLO',
-        music: 'music\novos\WLO - Expansão de Domínio ( Sukuna vs Gojo - Jujutsu Kaisen ) (320 kbps).mp3'
+        music: 'music/novos/WLO - Expansão de Domínio ( Sukuna vs Gojo - Jujutsu Kaisen ) (320 kbps).mp3'
     },
     {
         img: 'music/novos/gojovssukunaBasara.jpg',
         name: 'Santuário Infinito',
         artist: 'Basara ft. Daarui',
-        music: 'music\novos\Sukuna VS. Satoru Gojo _ Santuário Infinito (Jujutsu Kaisen) _ Basara ft. @DaaruiOficial (320 kbps).mp3'
+        music: 'music/novos/Sukuna VS. Satoru Gojo _ Santuário Infinito (Jujutsu Kaisen) _ Basara ft. @DaaruiOficial (320 kbps).mp3'
     },
     {
         img: 'music/novos/m4rkimSukuna.jpg',
