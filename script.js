@@ -500,6 +500,18 @@ const music_list = [
         name: 'Rei Das Maldições',
         artist: 'M4rkim',
         music: 'music/novos/Sukuna (Jujutsu Kaisen) - Rei Das Maldições _ M4rkim (320 kbps).mp3'
+    },
+    {
+        img: 'music/novos/gojoVSsukuna2.jpg',
+        name: 'Até a Morte',
+        artist: 'Yondax Ft Duelista',
+        music: 'music/novos/Gojo VS. Sukuna Pt. 2_ Até a Morte.mp3'
+    },
+    {
+        img: 'music/novos/duelistaSukuna.jpg',
+        name: 'Sukuna',
+        artist: 'Duelista',
+        music: 'music/novos/Sukuna (Jujutsu Kaisen) - O Mais Forte da História _ Duelista (320 kbps).mp3',
     }
     
 ];
