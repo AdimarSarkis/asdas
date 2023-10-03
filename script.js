@@ -512,6 +512,18 @@ const music_list = [
         name: 'Sukuna',
         artist: 'Duelista',
         music: 'music/novos/Sukuna (Jujutsu Kaisen) - O Mais Forte da História _ Duelista (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/kaitoYutaHakari.jpg',
+        name: 'Potencial Infinito',
+        artist: 'Kaito ft. EoDan',
+        music: 'music/novos/Hakari & Yuta (Jujutsu Kaisen) _ Potencial Infinito _ Kaito ft @EoDanOficial (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/gojoDaarui.jpg',
+        name: 'O Infinito',
+        artist: 'Daarui',
+        music: 'music/novos/O Infinito (Satoru Gojo) _ Daarui (320 kbps).mp3',
     }
     
 ];
