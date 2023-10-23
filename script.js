@@ -524,6 +524,18 @@ const music_list = [
         name: 'O Infinito',
         artist: 'Daarui',
         music: 'music/novos/O Infinito (Satoru Gojo) _ Daarui (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/jing.jpg',
+        name: 'Coração Vazio',
+        artist: 'AnnyTHN',
+        music: 'music/novos/Anny - Coração Vazio [Prod.ZG] (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/enygmaEnygma.jpg',
+        name: 'Coração Vazio',
+        artist: 'AnnyTHN',
+        music: 'music/novos/Ódio (Hantengu) feat. Teaga, Daarui e Kaito _ Enygma (320 kbps).mp3',
     }
     
 ];
