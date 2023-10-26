@@ -533,9 +533,39 @@ const music_list = [
     },
     {
         img: 'music/novos/enygmaEnygma.jpg',
-        name: 'Coração Vazio',
-        artist: 'AnnyTHN',
+        name: 'Ódio',
+        artist: 'Enygma',
         music: 'music/novos/Ódio (Hantengu) feat. Teaga, Daarui e Kaito _ Enygma (320 kbps).mp3',
+    },
+    {
+        img: 'music/musicas/KaitoIsagi.jpg',
+        name: 'Egoísta',
+        artist: 'Kaito',
+        music: 'music/musicas/Egoísta _ Isagi Yoichi (Blue Lock) _ Kaito (320 kbps).mp3',
+    },
+    {
+        img: 'music/musicas/guts.jpg',
+        name: 'Perdi Tudo',
+        artist: 'M4rkim',
+        music: 'music/musicas/Guts (Berserk) - Perdi Tudo _ M4rkim (320 kbps).mp3',
+    },
+    {
+        img: 'music/musicas/flashBachira.jpg',
+        name: 'O Rei do Drible',
+        artist: 'Flash Beats',
+        music: 'music/musicas/Rap do Bachira (Blue Lock) - O Rei do Drible _ Flash Beats (320 kbps).mp3',
+    },
+    {
+        img: 'music/musicas/flashIsagi.jpg',
+        name: 'O Rei da decisão',
+        artist: 'Flash Beats',
+        music: 'music/musicas/Rap do Isagi (Blue Lock) - O Rei da decisão _ Flash Beats (320 kbps).mp3',
+    },
+    {
+        img: 'music/musicas/flashChigiri.jpg',
+        name: 'O Rei da Velocidade',
+        artist: 'Flash Beats',
+        music: 'music/musicas/SpeedRap - Chigiri (Blue Lock) - O Rei da Velocidade _ Flash Beats (320 kbps).mp3',
     }
     
 ];
