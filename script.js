@@ -566,6 +566,48 @@ const music_list = [
         name: 'O Rei da Velocidade',
         artist: 'Flash Beats',
         music: 'music/musicas/SpeedRap - Chigiri (Blue Lock) - O Rei da Velocidade _ Flash Beats (320 kbps).mp3',
+    },
+    {
+        img: '',
+        name: 'Avanço',
+        artist: 'Kaito ft. @Duelista',
+        music: 'music/novos/Avanço _ Tesla vs Beelzebub (Shuumatsu no Valkyrie) _ Kaito ft. @Duelista (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/byakuya.jpg',
+        name: 'Senbonzakura',
+        artist: 'Enygma',
+        music: 'music/novos/Rap do Byakuya Kuchiki (Bleach) _ Senbonzakura _ Enygma 89 (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/shinnyAya.jpg',
+        name: 'Minha Vez de Jogar',
+        artist: 'Shinny',
+        music: 'music/novos/Ayanokoji Vs Ryuen (Classroom of the Elite) - Minha Vez de Jogar _ Shiny Ft. @OkabeOficial (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/viloes.jpg',
+        name: 'Poder',
+        artist: 'M4rkim',
+        music: 'music/novos/Vilões (Dragon Ball Z) - Poder _ M4rkim (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/makiZero.jpg',
+        name: 'Zero',
+        artist: 'Kaito',
+        music: 'music/novos/Maki (Jujutsu Kaisen) _ Zero _ Kaito (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/makimaVsDenji.jpg',
+        name: 'Seu Gosto é Muito Bom',
+        artist: 'Sting',
+        music: 'music/novos/Makima vs Denji (Chainsaw Man) Seu Gosto é Muito Bom _ Sting (320 kbps).mp3',
+    },
+    {
+        img: 'music/novos/mauPressagio.jpg',
+        name: 'Mau Presságio',
+        artist: 'Dya',
+        music: 'music/novos/Mau Presságio (Kenjaku Vs Choso e Yuki) Ft. @Chrono0  e @ALBKMUSIC  _ D.Y.A (320 kbps).mp3',
     }
     
 ];
