@@ -568,7 +568,7 @@ const music_list = [
         music: 'music/musicas/SpeedRap - Chigiri (Blue Lock) - O Rei da Velocidade _ Flash Beats (320 kbps).mp3',
     },
     {
-        img: '',
+        img: 'images/fluxograma_Britagem.png',
         name: 'Avanço',
         artist: 'Kaito ft. @Duelista',
         music: 'music/novos/Avanço _ Tesla vs Beelzebub (Shuumatsu no Valkyrie) _ Kaito ft. @Duelista (320 kbps).mp3',
